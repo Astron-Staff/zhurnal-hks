@@ -1,0 +1,72 @@
+{
+ "app": "zhurnal-hks",
+ "version": "1.4.1",
+ "build": 6,
+ "files": [
+  {
+   "p": "config.json",
+   "h": "bd266b3f1dacd3e63a707562b3aa3b5e8c8b4f4b",
+   "s": 129
+  },
+  {
+   "p": "data.enc",
+   "h": "0cf7799b01360edb7729945995ae5aa9f877ddd3",
+   "s": 2668772
+  },
+  {
+   "p": "icons/apple-touch-icon.png",
+   "h": "3ae11b41ae7e846b3324160a8e0d20f5ce9ade8d",
+   "s": 59546
+  },
+  {
+   "p": "icons/icon-192.png",
+   "h": "1b57b32cd6e76b261df58fd26f7addad8147fe6e",
+   "s": 67358
+  },
+  {
+   "p": "icons/icon-512.png",
+   "h": "c4f56b7c54ecc6a636a4f15fccc2bd0b1b6a4899",
+   "s": 420444
+  },
+  {
+   "p": "icons/icon-maskable-512.png",
+   "h": "fba4d779a91e39b5b6332ceddbf19c176d4947ca",
+   "s": 429855
+  },
+  {
+   "p": "icons/logo-96.jpg",
+   "h": "684c0671276729227010bda9f5bf6ac6e05cba42",
+   "s": 3259
+  },
+  {
+   "p": "index.html",
+   "h": "6c0415de169eab1366b6a8bc93587acd6dde3025",
+   "s": 581244
+  },
+  {
+   "p": "lib/jspdf.umd.min.js",
+   "h": "e53ce4fac9ff70556a53e1a01c8636a33bb48f5d",
+   "s": 364463
+  },
+  {
+   "p": "lib/pdf.min.js",
+   "h": "a4641a2626f396d0272498e887ea09e4d013e493",
+   "s": 320004
+  },
+  {
+   "p": "lib/pdf.worker.min.js",
+   "h": "49162d546a1a5a11bd2c932b2d1b2520daef1ec3",
+   "s": 1087212
+  },
+  {
+   "p": "manifest.webmanifest",
+   "h": "08f96c5558f2adce1ae11cb79d06df616e4160bf",
+   "s": 681
+  },
+  {
+   "p": "sw.js",
+   "h": "56f1faf5c3ac88885bcc50c06b27c12c3a5d3cc4",
+   "s": 1494
+  }
+ ]
+}
