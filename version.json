@@ -1,7 +1,7 @@
 {
  "app": "zhurnal-hks",
- "version": "1.5.1",
- "build": 10,
+ "version": "1.5.2",
+ "build": 11,
  "files": [
   {
    "p": "config.json",
@@ -10,8 +10,8 @@
   },
   {
    "p": "data.enc",
-   "h": "716569bdb3d4dbd80036c2326a080306dea3e571",
-   "s": 2670998
+   "h": "774c2304fecf4c4aa7ecb71b12df7ce99ffc6544",
+   "s": 4347993
   },
   {
    "p": "icons/apple-touch-icon.png",
@@ -40,8 +40,8 @@
   },
   {
    "p": "index.html",
-   "h": "f076e84059114c7f84b478d338ee60cb6c27b38e",
-   "s": 632244
+   "h": "7aa41709f633f9956000a769b27cae4ab1c62361",
+   "s": 633018
   },
   {
    "p": "lib/jspdf.umd.min.js",
@@ -65,7 +65,7 @@
   },
   {
    "p": "sw.js",
-   "h": "69d9c4d1ffe962c5a37f7e818f74489b49739963",
+   "h": "89930546e64eb8e8304fbe8d34c2509c1f7a2bc7",
    "s": 1563
   }
  ]
