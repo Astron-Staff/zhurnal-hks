@@ -1,7 +1,7 @@
 {
  "app": "zhurnal-hks",
- "version": "1.6.3",
- "build": 16,
+ "version": "1.6.4",
+ "build": 17,
  "files": [
   {
    "p": "config.json",
@@ -10,7 +10,7 @@
   },
   {
    "p": "data.enc",
-   "h": "7cb1c7caff1ecab6a118b435318af19007785f25",
+   "h": "5634c624751ab6585f0bf40894f89e26eec8cc25",
    "s": 4350938
   },
   {
@@ -40,8 +40,8 @@
   },
   {
    "p": "index.html",
-   "h": "e6cb2ff75ad1cf0b6015e40f70e16d9d89e384ff",
-   "s": 648830
+   "h": "ce1131c743249b2f2917ae9f347c20d156cfeb09",
+   "s": 649067
   },
   {
    "p": "lib/jspdf.umd.min.js",
@@ -65,7 +65,7 @@
   },
   {
    "p": "sw.js",
-   "h": "b2ef4e16d06be1bf282f5c2c55fa415aa0792f13",
+   "h": "d21139fade748570283af87adc8ab4c2d904932c",
    "s": 1563
   }
  ]
