@@ -1,4 +1,4 @@
-const CACHE = 'zhurnal-hks-test-6657fd78b0';
+const CACHE = 'zhurnal-hks-test-963e0be7b8';
 const FILES = ["./", "config.json", "icons/apple-touch-icon.png", "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-512.png", "icons/logo-96.jpg", "index.html", "lib/jspdf.umd.min.js", "lib/pdf.min.js", "lib/pdf.worker.min.js", "manifest.webmanifest"];
 self.addEventListener('install', e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES.map(f => new Request(f, { cache: 'reload' })))).then(() => self.skipWaiting())); });
 self.addEventListener('activate', e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE && k.startsWith('zhurnal-hks-test-')).map(k => caches.delete(k)))).then(() => self.clients.claim())); });
